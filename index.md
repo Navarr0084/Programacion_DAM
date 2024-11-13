@@ -6,11 +6,11 @@
 
 ![Imagen programando](C:\Users\Flik\Documents\GitHub\Programacion_DAM\java.jpg)
 
-####Ahora estoy estudiando DAM
+Ahora estoy estudiando DAM
 
-####Desarrollo de Aplicaciones Multiplataforma
+Desarrollo de Aplicaciones Multiplataforma
 
-#####Las asignaturas son:
+Las asignaturas son:
 
 1.Programación con Java
 2.Base de Datos
