@@ -6,18 +6,15 @@
 
 
 
-#### Ahora estoy estudiando DAM(Desarrollo de Aplicaciones Multiplataforma)
+#### Ahora estoy estudiando DAM (Desarrollo de Aplicaciones Multiplataforma)
 
-##### Las asignaturas son:
+| Asignarueas | HorasSem | HorasA |
+| ----------- | -------- | ------ |
+| Programación |    8    |  256 |
+| Base de Datos | 5 | 160 |
+| Lenguaje de maracas | 3 | 96 |
+| Entorno de Desarrollo | 3 | 96 |
+| Sistemas Informáticos | 5 | 160 |
+| Proyecto Intermodular | 1 | 32 |
+- - - 
 
-1. Programación con Java
-
-2. Base de Datos
-
-3. Lenguaje de maracas
-
-4. Entorno de Desarrollo
-
-5. Sistemas Informáticos
-
-6. Proyecto Intermodular
