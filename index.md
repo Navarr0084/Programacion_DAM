@@ -11,6 +11,7 @@
 ####Desarrollo de Aplicaciones Multiplataforma
 <br>
 #####Las asignaturas son:
+
 1.Programación con Java
 2.Base de Datos
 3.Lenguaje de maracas
