@@ -10,14 +10,14 @@
 
 ##### Las asignaturas son:
 
-1.Programación con Java
+1. Programación con Java
 
-2.Base de Datos
+2. Base de Datos
 
-3.Lenguaje de maracas
+3. Lenguaje de maracas
 
-4.Entorno de Desarrollo
+4. Entorno de Desarrollo
 
-5.Sistemas Informáticos
+5. Sistemas Informáticos
 
-6.Proyecto Intermodular
+6. Proyecto Intermodular
