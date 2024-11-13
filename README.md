@@ -6,11 +6,9 @@
 
 
 
-Ahora estoy estudiando DAM
+#### Ahora estoy estudiando DAM(Desarrollo de Aplicaciones Multiplataforma)
 
-Desarrollo de Aplicaciones Multiplataforma
-
-Las asignaturas son:
+##### Las asignaturas son:
 
 1.Programación con Java
 
